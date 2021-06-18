@@ -6,7 +6,7 @@
 
     <groupId>ssx.study.ssm</groupId>
     <artifactId>SSM_Fourth</artifactId>
-    <version>2.1-RELEASE</version>
+    <version>4.0-RELEASE</version>
     <packaging>war</packaging>
 
     <repositories>
