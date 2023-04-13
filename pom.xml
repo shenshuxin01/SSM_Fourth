@@ -11,6 +11,10 @@
 
     <repositories>
         <repository>
+            <id>alibaba-public</id>
+            <url>https://maven.aliyun.com/repository/public</url>
+        </repository>
+        <repository>
             <id>maven-public</id>
             <url>http://192.168.192.129:8081/repository/maven-public/</url>
         </repository>
